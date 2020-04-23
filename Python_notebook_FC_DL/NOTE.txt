@@ -1,0 +1,1 @@
+Not able to proceed with Train a convnet 'cause I have windows
